@@ -1,0 +1,10 @@
+.body{
+    background-color: dimgrey;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.h1{
+    color: goldenrod;
+    font-size: 30px;
+}
