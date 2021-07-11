@@ -9,6 +9,11 @@ h1{
     font-size: 70px;
 }
 
+h3{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+
 p{
     font-size: 17px;
     font-weight: 300;
@@ -16,6 +21,22 @@ p{
 
 .contenedor.blog {
     width: 800px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: indigo;
+}
+
+.content_blog {
+    width: 800px;
     text-align: justify;
     margin: 0 auto;
+    font-family: sans-serif;
+}
+.blogdeproyecto {
+    width: 800px;
+    margin: 0 auto;
+    padding: 30px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #d4d4d4;
 }
