@@ -40,3 +40,7 @@ p{
     border-style: solid;
     border-color: #d4d4d4;
 }
+img.imagenblog {
+    border-radius: 50px;
+    width: 100%;
+}
